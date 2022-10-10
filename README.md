@@ -7,7 +7,7 @@ Team ID : **PNT2022TMID38490**
 * Team Leader : Dinesh Raj S
 * Team member : Jaya Suriya J
 * Team member : Milanrash M
-* Team member : Ragul Mutta Pundai
+* Team member : Ragul T
 
 
 **Status** :
